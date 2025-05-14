@@ -1,0 +1,1 @@
+**OBJECT:** Write a program to implement various types of error correction techniques.

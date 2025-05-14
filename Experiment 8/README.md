@@ -1,0 +1,1 @@
+**OBJECT:** Write two programs in Java: (i) hello_client and (ii) hello_server. The server read UDP datagram; it reads all the data and prints it to the screen.
